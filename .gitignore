@@ -1,0 +1,15 @@
+# Ignore build data
+/**/__pycache__/*
+
+# Ignore output data
+/**/output/*
+/**/summaries/*
+/**/images/*
+
+# Ignore data directories, which should be at least compressed
+/**/data/*
+/**/assets/*
+/assignment_1/code/cifar10/cifar-10-batches-py/*
+
+# Ignore assignment archives
+devries_assignment[1-3].zip
